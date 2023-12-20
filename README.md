@@ -3,3 +3,5 @@ Kullanıcı sisteme girip randevu alınabilmektedir, Admin tarafında Hastane, D
 Klinik ekranlarında ekleme, silme, güncelleme gibi işlemler gerçekleştirilmektedir 
 
 Kullanılan Teknolojiler: C#, Entity Framework, N- Tier Architecture, Repository Pattern,Code First
+https://prnt.sc/mdGAJWztZu5B
+
